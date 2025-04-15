@@ -1,0 +1,33 @@
+/* Le commenntaire en CSS */
+
+h2 {
+
+    font-size: 20px;
+    color: red;
+    
+    }
+    
+h3 {
+    font-size: 35px;
+    font-weight: bold;
+}
+.project {
+
+  position: relative;
+        
+  width: 200px;
+        
+  height: 200px;
+        
+  background-color:aquamarine;
+}
+#about {
+
+   position: relative;
+            
+   width: 200px;
+            
+   height: 200px;
+            
+   background-color: blueviolet;
+ }ff
